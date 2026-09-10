@@ -2,6 +2,9 @@
 
 A Power BI and Looker Studio dashboard analyzing startup investment trends across industries, funding stages, cities, and investors, built using Python for data cleaning and EDA.
 
+<img width="388" height="478" alt="image" src="https://github.com/user-attachments/assets/dc6f9065-6434-4658-96f2-b7722a87109b" />
+
+
 ## Business Objectives
 - Analyze investment trends from 2020-2025 to identify growth and decline periods.
 - Identify top-funded industries and funding stages driving the most capital.

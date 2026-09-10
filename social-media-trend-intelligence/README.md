@@ -4,6 +4,7 @@ An analysis of a 5,000-record e-commerce sales dataset (Kaggle), tracking 5K ord
 
 <img width="681" height="402" alt="ecommerce sales analysis ss1(pb)" src="https://github.com/user-attachments/assets/757ecd96-abb6-499a-8733-a293b90f330a" />
 Link:https://www.kaggle.com/datasets/abbas829/ecommerce-sales-dataset
+
 ## Business Objectives
 - Identify top-performing product categories by revenue and units sold.
 - Analyze payment method trends driving the most revenue.

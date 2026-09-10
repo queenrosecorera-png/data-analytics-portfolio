@@ -1,5 +1,3 @@
-# data-analytics-portfolio
-
 # Startup Investment Analytics Dashboard (2020-2025)
 
 A Power BI and Looker Studio dashboard analyzing startup investment trends across industries, funding stages, cities, and investors, built using Python for data cleaning and EDA.

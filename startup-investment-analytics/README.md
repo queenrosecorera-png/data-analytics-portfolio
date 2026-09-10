@@ -2,8 +2,8 @@
 
 An end-to-end Startup Investment Analytics project using Python, Power BI, and Looker Studio to analyze funding trends across industries, investment stages, cities, and investors. The project covers data cleaning, exploratory analysis, KPI development, visualization, and interactive dashboard creation.
 
-Link:https://www.kaggle.com/datasets/vagdevititikshag/indian-startup-funding-dataset-20202025
 <img width="388" height="478" alt="image" src="https://github.com/user-attachments/assets/dc6f9065-6434-4658-96f2-b7722a87109b" />
+Link:https://www.kaggle.com/datasets/vagdevititikshag/indian-startup-funding-dataset-20202025
 
 
 ## Business Objectives

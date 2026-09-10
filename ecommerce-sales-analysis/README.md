@@ -1,7 +1,6 @@
 # E-Commerce Sales Analysis Dashboard
 
-An analysis of a 5,000-record e-commerce sales dataset (Kaggle), tracking 5K orders totaling 5.11M in revenue, built using Python and Power BI.
-
+An end-to-end E-Commerce Sales Analysis project using Python, Pandas, and Power BI to analyze sales, revenue, customer behavior, and product performance. The project covers data cleaning, exploratory analysis, KPI development, visualization, and interactive dashboard creation.
 
 <img width="681" height="402" alt="ecommerce sales analysis ss1(pb)" src="https://github.com/user-attachments/assets/e8a8e385-aff5-4f15-ab7a-488979a1d548" />
 Link:https://www.kaggle.com/datasets/abbas829/ecommerce-sales-dataset

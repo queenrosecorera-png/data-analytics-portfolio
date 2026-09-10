@@ -1,6 +1,6 @@
 # Social Media Trend Intelligence
 
-An analysis of 12,001 social media posts spanning 228M views, 19M likes, and 2M shares across six platforms, built using Google Colab and Power BI.
+An end-to-end Social Media Trend Intelligence project using Python and Power BI to analyze sentiment, engagement, trending topics, platforms, and user behavior. The project covers data cleaning, exploratory analysis, KPI development, visualization, and interactive dashboard creation.
 
 <img width="811" height="447" alt="image" src="https://github.com/user-attachments/assets/f3567414-f596-4b16-b46e-cf9872393e1c" />
 
